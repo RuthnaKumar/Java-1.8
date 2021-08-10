@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class JavaNew {
+	
 	public static void main(String arg[])
 	{
 		int A[]= {115,113,114,120};
@@ -122,11 +123,12 @@ System.out.println("TVM");
 	Period p = Period.between(age, today);
 	System.out.printf("YOUR AGE IS %d YEAR %d MONTH %d DAY",p.getYears(),p.getMonths(),p.getDays());
 
-	}
 	
 	
+	
+	}	
 } 
-
+ 
 
 
 
